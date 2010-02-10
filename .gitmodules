@@ -1,0 +1,12 @@
+[submodule "ZSymbolTable"]
+	path = ZSymbolTable
+	url = git://github.com/ASDen/ZSymbolTable.git
+[submodule "ZTypes"]
+	path = ZTypes
+	url = git://github.com/ASDen/ZTypes.git
+[submodule "ZParser"]
+	path = ZParser
+	url = git://github.com/ASDen/ZParser.git
+[submodule "CGsp"]
+	path = CGsp
+	url = git://github.com/ASDen/CGsp.git
